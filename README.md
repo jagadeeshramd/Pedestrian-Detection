@@ -2,7 +2,9 @@
 Developed under Verzeo's Artificial Intelligence Internship program. A simple pedestrian detection program that makes use of YOLOv3 model and OpenCV for image recognition
 
 #To run
-Download the repository and type the following in the command prompt.
+1. Download the repository 
+2. Download the yolov3.weights file from [here](https://drive.google.com/file/d/1ifZ4WnXYOKHwSiKS9XfVuBJtaeZfNdIF/view?usp=sharing) and add the same to the yolo-coco folder.
+3. Type the following in the command prompt.
 
 `python pedestrian_detection.py --image images --yolo yolo-coco`
 
