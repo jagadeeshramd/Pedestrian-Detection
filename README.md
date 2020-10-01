@@ -3,7 +3,7 @@ Developed under Verzeo's Artificial Intelligence Internship program. A simple pe
 
 # To run
 1. Download the repository 
-2. Download the yolov3.weights file from [here](https://drive.google.com/file/d/1ifZ4WnXYOKHwSiKS9XfVuBJtaeZfNdIF/view?usp=sharing) and add the same to the yolo-coco folder. (I couldn't upload it here as the file size of the pretrained model was too big.)
+2. Download the yolov3.weights file from [here](https://drive.google.com/file/d/1ifZ4WnXYOKHwSiKS9XfVuBJtaeZfNdIF/view?usp=sharing) and add the same to the yolo-coco folder. (I couldn't upload it here as the file is too big.)
 3. Type the following in the command prompt.
 
 `python pedestrian_detection.py --image images --yolo yolo-coco`
