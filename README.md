@@ -2,7 +2,7 @@
 Developed under Verzeo's Artificial Intelligence Internship program. A simple pedestrian detection program that makes use of YOLOv3 model and OpenCV for image recognition
 
 # To run
-Prerequisites: NumPy, OpenCv, imutils
+Prerequisites: NumPy, OpenCv, imutils.
 If these libraries are not pre-installed, run the following commands on the terminal.
 
 `pip install numpy`
